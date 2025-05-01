@@ -5,6 +5,7 @@ Authentication with JSON Web Tokens (JWTs)
 
 ## Your Task
 
+hi this is testing
 Authentication with JSON Web Tokens (JWTs) is crucial for full-stack applications, as it provides a secure and scalable method for verifying user identities. JWTs are compact, URL-safe tokens that encode a user's authentication data, allowing servers to authenticate requests. Additionally, JWTs can include metadata and be easily verified and decoded, enhancing security while enabling seamless authentication across various parts of an application.
 
 Your Challenge this week is to add authentication with JWT to an existing Kanban board application.
