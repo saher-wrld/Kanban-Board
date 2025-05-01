@@ -14,8 +14,11 @@ export default defineConfig({
       '/auth': {
         target: 'http://localhost:3001',
         changeOrigin: true,
-        secure: false
+        secure: false,
       },
     },
+  },
+  build: {
+    outDir: 'dist', // ensures the output folder is dist
   },
 });
